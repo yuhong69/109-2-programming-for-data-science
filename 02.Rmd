@@ -14,7 +14,6 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 ctrl+enter
 
 
-
 ## your code
 用指令安裝套件
 
@@ -33,6 +32,15 @@ purl(02)
 a <- 2
 a = 2 # = 與 <-同義
 ```
+
+
+```{r}
+my_total_credits <- 15
+my_total_credits = 15
+.my_total_credits_2 = 3 #點隱藏
+my_total_credits_3 = 3
+```
+
 
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
